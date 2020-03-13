@@ -1,0 +1,1 @@
+Application demonstrating RESTful state, fragments, recycler view, and broadcast receiver. A Github API is also implemented.  
